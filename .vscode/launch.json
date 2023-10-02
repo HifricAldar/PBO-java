@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BentukMain",
+            "request": "launch",
+            "mainClass": "bentuk.BentukMain",
+            "projectName": "latihan pbo_17cce0fb"
+        },
+        {
+            "type": "java",
+            "name": "BankMain",
+            "request": "launch",
+            "mainClass": "SIBank.BankMain",
+            "projectName": "latihan pbo_17cce0fb"
+        },
+        {
+            "type": "java",
+            "name": "MyClass",
+            "request": "launch",
+            "mainClass": "BangunDatar.MyClass",
+            "projectName": "latihan pbo_17cce0fb"
+        },
+        {
+            "type": "java",
+            "name": "BankMain",
+            "request": "launch",
+            "mainClass": "BankNext.BankMain",
+            "projectName": "latihan pbo_17cce0fb"
+        },
+        {
+            "type": "java",
+            "name": "TebakPanggilan",
+            "request": "launch",
+            "mainClass": "LatihanPertemuan4.TebakPanggilan",
+            "projectName": "latihan pbo_17cce0fb"
+        },
+        {
+            "type": "java",
+            "name": "LuasSegitiga",
+            "request": "launch",
+            "mainClass": "LatihanPertemuan4.LuasSegitiga",
+            "projectName": "latihan pbo_17cce0fb"
+        },
+        {
+            "type": "java",
+            "name": "BangunRuangBeraksi",
+            "request": "launch",
+            "mainClass": "BangunRuang.BangunRuangBeraksi",
+            "projectName": "latihan pbo_17cce0fb"
+        },
+        {
+            "type": "java",
+            "name": "BangunDatarBeraksi",
+            "request": "launch",
+            "mainClass": "BangunDatar.BangunDatarBeraksi",
+            "projectName": "latihan pbo_17cce0fb"
+        },
+        {
+            "type": "java",
+            "name": "MatematikaBeraksi",
+            "request": "launch",
+            "mainClass": "matematika.MatematikaBeraksi",
+            "projectName": "latihan pbo_17cce0fb"
+        },
+        {
+            "type": "java",
+            "name": "HandphoneBeraksi",
+            "request": "launch",
+            "mainClass": "HandphoneBeraksi",
+            "projectName": "latihan pbo_17cce0fb"
+        },
+        {
+            "type": "java",
+            "name": "F1D021041",
+            "request": "launch",
+            "mainClass": "F1D021041",
+            "projectName": "latihan pbo_17cce0fb"
+        },
+        {
+            "type": "java",
+            "name": "Cats",
+            "request": "launch",
+            "mainClass": "Cats",
+            "projectName": "latihan pbo_17cce0fb"
+        },
+        {
+            "type": "java",
+            "name": "Launch classAndObject",
+            "request": "launch",
+            "mainClass": "latihan.classAndObject",
+            "projectName": "folder for java_a9a59395"
+        },
+        {
+            "type": "java",
+            "name": "Launch PerahuMesin",
+            "request": "launch",
+            "mainClass": "air.PerahuMesin",
+            "projectName": "folder for java_a9a59395"
+        },
+        {
+            "type": "java",
+            "name": "Launch kargo",
+            "request": "launch",
+            "mainClass": "kargo",
+            "projectName": "folder for java_a9a59395"
+        },
+        {
+            "type": "java",
+            "name": "Launch PerahuMesin",
+            "request": "launch",
+            "mainClass": "PerahuMesin",
+            "projectName": "folder for java_a9a59395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Perahu",
+            "request": "launch",
+            "mainClass": "Perahu",
+            "projectName": "folder for java_a9a59395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "folder for java_a9a59395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cats",
+            "request": "launch",
+            "mainClass": "Cats",
+            "projectName": "folder for java_a9a59395"
+        },
+        {
+            "type": "java",
+            "name": "Launch British",
+            "request": "launch",
+            "mainClass": "British",
+            "projectName": "folder for java_a9a59395"
+        },
+        {
+            "type": "java",
+            "name": "Launch regula_falsi",
+            "request": "launch",
+            "mainClass": "regula_falsi",
+            "projectName": "folder for java_a9a59395"
+        },
+        {
+            "type": "java",
+            "name": "Launch regula",
+            "request": "launch",
+            "mainClass": "regula",
+            "projectName": "folder for java_a9a59395"
+        },
+        {
+            "type": "java",
+            "name": "Launch biseksi",
+            "request": "launch",
+            "mainClass": "biseksi",
+            "projectName": "folder for java_a9a59395"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "folder for java_a9a59395"
+        },
+        {
+            "type": "java",
+            "name": "Launch TELOR",
+            "request": "launch",
+            "mainClass": "TELOR",
+            "projectName": "folder for java_a9a59395"
+        },
+        {
+            "type": "java",
+            "name": "Launch latihan",
+            "request": "launch",
+            "mainClass": "latihan",
+            "projectName": "folder for java_a9a59395"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "folder for java_a9a59395"
+        }
+    ]
+}
