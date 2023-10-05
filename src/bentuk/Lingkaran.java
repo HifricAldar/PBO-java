@@ -20,6 +20,8 @@ public class Lingkaran extends Bentuk{
         return hasil;
     }
     public void Display(){
-        System.out.println("Lingkaran berwarna"+"["+getColor()+"]"+" dengan panjang jari-jari "+getRadius()+" memiliki luas = "+(int)hitungLuas());
+        System.out.print("Lingkaran ");
+        super.Display();
+        System.out.println("dengan panjang jari-jari "+getRadius()+" memiliki luas = "+(int)hitungLuas());
     }
 }

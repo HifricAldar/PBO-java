@@ -15,7 +15,9 @@ public  class BujurSangkar extends Bentuk{
         double hasil = Math.pow(side, 2);
         return hasil;
     }
-    public String Display(){
-        return "Bujur Sangkar "+super.Display()+" dengan panjang sisi "+getSide()+" memiliki luas = "+(int)hitungLuas();
+    public void Display(){
+        System.out.print("Bujur Sangkar ");
+        super.Display();
+        System.out.println("dengan panjang sisi "+getSide()+" memiliki luas = "+(int)hitungLuas());
     }
 }

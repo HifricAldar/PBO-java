@@ -16,7 +16,7 @@ public class Silinder extends Lingkaran{
         return hasil;
     }
     public void Display(){
-        System.out.println("Lingkaran berwarna"+"["+getColor()+"]"+" dengan panjang jari-jari "+getRadius()+" dan tinggi " +getHeight()+ " memiliki Volume = "+hitungVolume());
+        System.out.println("Silinder berwarna"+"["+getColor()+"]"+" dengan panjang jari-jari "+getRadius()+" dan tinggi " +getHeight()+ " memiliki Volume = "+hitungVolume());
     }
 
 

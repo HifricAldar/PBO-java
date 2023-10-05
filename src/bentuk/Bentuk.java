@@ -15,6 +15,6 @@ public class Bentuk {
         this.color = color;
     }
     public void Display(){
-        System.out.println("Bentuk Berwarna" + "[" + color + "]");
+        System.out.print("Berwarna" + "[" + color + "]");
     }
 }
