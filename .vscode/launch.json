@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PoligonMain",
+            "request": "launch",
+            "mainClass": "Poligon.PoligonMain",
+            "projectName": "PBO-java_cd28973c"
+        },
+        {
+            "type": "java",
+            "name": "BentukMain",
+            "request": "launch",
+            "mainClass": "bentuk.BentukMain",
+            "projectName": "PBO-java_cd28973c"
+        },
+        {
+            "type": "java",
             "name": "BentukMain",
             "request": "launch",
             "mainClass": "bentuk.BentukMain",
