@@ -25,9 +25,14 @@ public class SegiEmpat extends Poligon {
         int hasil = 2*(lenght+width);
         return hasil;
     }
+    public int hitungLuasSegiEmpat(){
+        int hasil = lenght*width;
+        return hasil;
+    }
     public void Display(){
         super.Display();
-        System.out.println(" dengan panjang "+getSegiEmpatLenght()+ " dan lebar "+getSegiEmpatwidth()+" memiliki keliling: "+hitungKelilingSegiEmpat());
+        System.out.println(" dengan panjang "+getSegiEmpatLenght()+ " dan lebar "+getSegiEmpatwidth());
+        System.out.println(" memiliki keliling: "+hitungKelilingSegiEmpat()+", Luas: "+hitungLuasSegiEmpat());
 
     }
 
