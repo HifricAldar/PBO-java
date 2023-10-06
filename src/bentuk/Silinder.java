@@ -2,7 +2,8 @@ package bentuk;
 
 public class Silinder extends Lingkaran{
     int height;
-    Silinder(int height){
+    Silinder(String color, int radius, int height){
+        super(color, radius);
         this.height = height;
     }
     public int getHeight(){

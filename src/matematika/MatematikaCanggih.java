@@ -4,4 +4,8 @@ public class MatematikaCanggih extends Matematika {
         int hasil = a%b;
         return hasil;
     }
+    public void Display(){
+        super.Display();
+        System.out.println("Modulus: "+getNumberA()+" % "+getNumberB()+" = "+ modulus());
+    }
 }

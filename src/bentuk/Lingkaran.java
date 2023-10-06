@@ -6,7 +6,8 @@ public class Lingkaran extends Bentuk{
     Lingkaran(){
 
     }
-    Lingkaran(double radius){
+    Lingkaran(String color, double radius){
+        super(color);
         this.radius = radius;
     }
     public double getRadius(){

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MatematikaBeraksi",
+            "request": "launch",
+            "mainClass": "matematika.MatematikaBeraksi",
+            "projectName": "PBO-java_cd28973c"
+        },
+        {
+            "type": "java",
             "name": "PoligonMain",
             "request": "launch",
             "mainClass": "Poligon.PoligonMain",
