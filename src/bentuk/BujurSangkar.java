@@ -2,7 +2,8 @@ package bentuk;
 
 public  class BujurSangkar extends Bentuk{
     double side;
-    BujurSangkar(double side){
+    BujurSangkar(String color, double side){
+        super(color);
         this.side = side;
     }
     public double getSide(){

@@ -33,4 +33,10 @@ public class Matematika {
         double hasil = a/b;
         return hasil;
     }
+    public void Display(){
+        System.out.println("pertambahan: "+getNumberA()+" + "+getNumberB()+" = "+ pertambahan());
+        System.out.println("pengurangan: "+getNumberA()+" - "+getNumberB()+" = "+ pengurangan());
+        System.out.println("perkalian: "+getNumberA()+" * "+getNumberB()+" = "+ perkalian());
+        System.out.println("pembagian: "+getNumberA()+" / "+getNumberB()+" = "+ pembagian());
+    }
 }
